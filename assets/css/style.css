@@ -4,7 +4,7 @@
     text-align: center;
 }
 body{
-    background-image: url(/card/assets/img/gid.gif);
+    background-image: url(../img/gid.gif);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
